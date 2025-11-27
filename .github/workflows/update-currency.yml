@@ -3,7 +3,7 @@ name: Update Currency Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *'  # Runs every 1 hours 
+  - cron: '*/30 * * * *'  # Runs every 30 minutes 
 
 concurrency:
   group: "pages"
