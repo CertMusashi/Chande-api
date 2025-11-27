@@ -5,7 +5,7 @@ This API is designed to provide real-time currency and price data for the **[Cha
 ## **Features**
 
 ✅ Real-time price updates for popular currencies, gold, and cryptocurrencies.  
-✅ Automatic price updates (approximately every 10 minutes).  
+✅ Automatic price updates (approximately every 30 minutes).  
 ✅ Data stored in a structured JSON format.
 
 ---
