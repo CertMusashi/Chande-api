@@ -1,5 +1,5 @@
 {
-  "date": "1404/11/18, 05:13",
+  "date": "1404/11/18, 07:35",
   "currencies": [
     {
       "code": "usd",
@@ -32,7 +32,7 @@
     {
       "code": "gbp",
       "name": "پوند انگلیس",
-      "price": 220700,
+      "price": 220600,
       "icon": "https://raw.githubusercontent.com/HatScripts/circle-flags/refs/heads/gh-pages/flags/gb.svg",
       "en": "British pound"
     },
@@ -130,7 +130,7 @@
     {
       "code": "jpy",
       "name": "صد ین ژاپن",
-      "price": 103100,
+      "price": 103200,
       "icon": "https://raw.githubusercontent.com/HatScripts/circle-flags/refs/heads/gh-pages/flags/jp.svg",
       "en": "Japanese yen"
     },
@@ -186,7 +186,7 @@
     {
       "code": "nzd",
       "name": "دلار نیوزلند",
-      "price": 97580,
+      "price": 97560,
       "icon": "https://raw.githubusercontent.com/HatScripts/circle-flags/refs/heads/gh-pages/flags/nz.svg",
       "en": "New Zealand dollar"
     },
@@ -361,49 +361,49 @@
     {
       "code": "usd_xau",
       "name": "انس طلا",
-      "price": 4954.17,
+      "price": 4954.37,
       "icon": "https://platform.tgju.org/files/images/gold-1-1622253769.png",
       "en": "Usd_xau"
     },
     {
       "code": "xag",
       "name": "انس نقره",
-      "price": 78.34,
+      "price": 77,
       "icon": "https://platform.tgju.org/files/images/silver-1624079710.png",
       "en": "Xag"
     },
     {
       "code": "usdt",
       "name": "تتر",
-      "price": 164138,
+      "price": 163302,
       "icon": "https://alanchand.com/assets/img/crypto/USDT.svg",
       "en": "Tether"
     },
     {
       "code": "btc",
       "name": "بیت کوین",
-      "price": 70243,
+      "price": 71132,
       "icon": "https://alanchand.com/assets/img/crypto/BTC.svg",
       "en": "Bitcoin"
     },
     {
       "code": "eth",
       "name": "اتریوم",
-      "price": 2053,
+      "price": 2092,
       "icon": "https://alanchand.com/assets/img/crypto/ETH.svg",
       "en": "Ethereum"
     },
     {
       "code": "xrp",
       "name": "ریپل",
-      "price": 1.453,
+      "price": 1.474,
       "icon": "https://alanchand.com/assets/img/crypto/XRP.svg",
       "en": "Ripple"
     },
     {
       "code": "bnb",
       "name": "بایننس کوین",
-      "price": 653.7,
+      "price": 659.5,
       "icon": "https://alanchand.com/assets/img/crypto/BNB.svg",
       "en": "Binance Coin"
     },
@@ -417,112 +417,112 @@
     {
       "code": "ada",
       "name": "کاردانو",
-      "price": 0.273,
+      "price": 0.276,
       "icon": "https://alanchand.com/assets/img/crypto/ADA.svg",
       "en": "Cardano"
     },
     {
       "code": "doge",
       "name": "دوج‌کوین",
-      "price": 0.0981,
+      "price": 0.0988,
       "icon": "https://alanchand.com/assets/img/crypto/DOGE.svg",
       "en": "Dogecoin"
     },
     {
       "code": "ton",
       "name": "تون کوین",
-      "price": 1.39,
+      "price": 1.412,
       "icon": "https://alanchand.com/assets/img/crypto/TON.svg",
       "en": "Toncoin"
     },
     {
       "code": "not",
       "name": "نات کوین",
-      "price": 0.00041,
+      "price": 0.00042,
       "icon": "https://alanchand.com/assets/img/crypto/NOT.svg",
       "en": "Notcoin"
     },
     {
       "code": "sol",
       "name": "سولانا",
-      "price": 86.8,
+      "price": 88.3,
       "icon": "https://alanchand.com/assets/img/crypto/SOL.svg",
       "en": "Solana"
     },
     {
       "code": "trx",
       "name": "ترون",
-      "price": 0.274,
+      "price": 0.275,
       "icon": "https://alanchand.com/assets/img/crypto/TRX.svg",
       "en": "Tron"
     },
     {
       "code": "cake",
       "name": "پنکیک سواپ",
-      "price": 1.37,
+      "price": 1.387,
       "icon": "https://alanchand.com/assets/img/crypto/CAKE.svg",
       "en": "Pancakeswap"
     },
     {
       "code": "avax",
       "name": "آوالانچ",
-      "price": 9.22,
+      "price": 9.31,
       "icon": "https://alanchand.com/assets/img/crypto/AVAX.svg",
       "en": "Avalanche"
     },
     {
       "code": "dot",
       "name": "پولکادات",
-      "price": 1.353,
+      "price": 1.383,
       "icon": "https://alanchand.com/assets/img/crypto/DOT.svg",
       "en": "Polkadot"
     },
     {
       "code": "link",
       "name": "چین‌لینک",
-      "price": 8.87,
+      "price": 8.95,
       "icon": "https://alanchand.com/assets/img/crypto/LINK.svg",
       "en": "Chainlink"
     },
     {
       "code": "ltc",
       "name": "لایت‌کوین",
-      "price": 54.6,
+      "price": 54.98,
       "icon": "https://alanchand.com/assets/img/crypto/LTC.svg",
       "en": "Litecoin"
     },
     {
       "code": "pepe",
       "name": "پپه",
-      "price": 0.00000388,
+      "price": 0.00000391,
       "icon": "https://alanchand.com/assets/img/crypto/PEPE.svg",
       "en": "Pepe"
     },
     {
       "code": "uni",
       "name": "یونی‌سواپ",
-      "price": 3.519,
+      "price": 3.578,
       "icon": "https://alanchand.com/assets/img/crypto/UNI.svg",
       "en": "Uniswap"
     },
     {
       "code": "xlm",
       "name": "استلار",
-      "price": 0.1622,
+      "price": 0.1635,
       "icon": "https://alanchand.com/assets/img/crypto/XLM.svg",
       "en": "Stellar"
     },
     {
       "code": "fil",
       "name": "فایل‌کوین",
-      "price": 0.972,
+      "price": 0.992,
       "icon": "https://alanchand.com/assets/img/crypto/FIL.svg",
       "en": "Filecoin"
     },
     {
       "code": "near",
       "name": "نیر پروتکل",
-      "price": 1.079,
+      "price": 1.093,
       "icon": "https://alanchand.com/assets/img/crypto/NEAR.svg",
       "en": "Near Protocol"
     },
@@ -536,119 +536,119 @@
     {
       "code": "aave",
       "name": "آوه",
-      "price": 113.51,
+      "price": 115.09,
       "icon": "https://alanchand.com/assets/img/crypto/AAVE.svg",
       "en": "Aave"
     },
     {
       "code": "grt",
       "name": "گراف",
-      "price": 0.02824,
+      "price": 0.02853,
       "icon": "https://alanchand.com/assets/img/crypto/GRT.svg",
       "en": "The Graph"
     },
     {
       "code": "xtz",
       "name": "تزوس",
-      "price": 0.4247,
+      "price": 0.4243,
       "icon": "https://alanchand.com/assets/img/crypto/XTZ.svg",
       "en": "Tezos"
     },
     {
       "code": "flow",
       "name": "فلو",
-      "price": 0.0485,
+      "price": 0.0465,
       "icon": "https://alanchand.com/assets/img/crypto/FLOW.svg",
       "en": "Flow"
     },
     {
       "code": "sand",
       "name": "سندباکس",
-      "price": 0.0852,
+      "price": 0.0876,
       "icon": "https://alanchand.com/assets/img/crypto/SAND.svg",
       "en": "The Sandbox"
     },
     {
       "code": "mana",
       "name": "دی‌سنترالند",
-      "price": 0.1011,
+      "price": 0.1029,
       "icon": "https://alanchand.com/assets/img/crypto/MANA.svg",
       "en": "Decentraland"
     },
     {
       "code": "axs",
       "name": "اکسی اینفینیتی",
-      "price": 1.338,
+      "price": 1.346,
       "icon": "https://alanchand.com/assets/img/crypto/AXS.svg",
       "en": "Axie Infinity"
     },
     {
       "code": "chz",
       "name": "چیلیز",
-      "price": 0.04089,
+      "price": 0.0417,
       "icon": "https://alanchand.com/assets/img/crypto/CHZ.svg",
       "en": "Chiliz"
     },
     {
       "code": "enj",
       "name": "انجین کوین",
-      "price": 0.02266,
+      "price": 0.02306,
       "icon": "https://alanchand.com/assets/img/crypto/ENJ.svg",
       "en": "Enjin Coin"
     },
     {
       "code": "zec",
       "name": "زدکش",
-      "price": 237.18,
+      "price": 238.68,
       "icon": "https://alanchand.com/assets/img/crypto/ZEC.svg",
       "en": "Zcash"
     },
     {
       "code": "gala",
       "name": "گالا",
-      "price": 0.00427,
+      "price": 0.00432,
       "icon": "https://alanchand.com/assets/img/crypto/GALA.svg",
       "en": "Gala"
     },
     {
       "code": "lrc",
       "name": "لوپرینگ",
-      "price": 0.0397,
+      "price": 0.0403,
       "icon": "https://alanchand.com/assets/img/crypto/LRC.svg",
       "en": "Loopring"
     },
     {
       "code": "bat",
       "name": "بت",
-      "price": 0.121,
+      "price": 0.1221,
       "icon": "https://alanchand.com/assets/img/crypto/BAT.svg",
       "en": "Basic Attention Token"
     },
     {
       "code": "one",
       "name": "هارمونی",
-      "price": 0.00268,
+      "price": 0.00269,
       "icon": "https://alanchand.com/assets/img/crypto/ONE.svg",
       "en": "Harmony"
     },
     {
       "code": "zen",
       "name": "هورایزن",
-      "price": 6.012,
+      "price": 6.11,
       "icon": "https://alanchand.com/assets/img/crypto/ZEN.svg",
       "en": "Horizen"
     },
     {
       "code": "cvc",
       "name": "سیویک",
-      "price": 0.0325,
+      "price": 0.0335,
       "icon": "https://alanchand.com/assets/img/crypto/CVC.svg",
       "en": "Civic"
     },
     {
       "code": "storj",
       "name": "استورج",
-      "price": 0.1034,
+      "price": 0.1055,
       "icon": "https://alanchand.com/assets/img/crypto/STORJ.svg",
       "en": "Storj"
     }
